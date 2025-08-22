@@ -27,7 +27,7 @@ enum34==1.1.6
 execnet==1.7.1
 funcsigs==1.0.2
 functools32==3.2.3.post2
-future==0.18.0
+future==1.0.0
 futures==3.3.0
 hypothesis==4.40.0
 idna==2.8
